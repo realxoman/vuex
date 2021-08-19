@@ -1,7 +1,8 @@
-# ویو اکس یا Vuex چیه؟
+# ویو اکس چیه؟
 
-::: tip NOTE
-This is the docs for Vuex 4, which works with Vue 3. If you're looking for docs for Vuex 3, which works with Vue 2, [please check it out here](https://vuex.vuejs.org/).
+::: توجه کنید که 
+این اسناد مخصوص ویو اکس نسخه ۴ هستش و با ویو ۳ هم‌خوانی داره. اگر دنبال توضیحات مربوط به ویو اکس ۳ که با ویو ۲ هم‌خوانی داره هست،
+[لطفا اینجا را چک کنید](https://vuex.vuejs.org/)
 :::
 
 Vuex is a **state management pattern + library** for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion.
